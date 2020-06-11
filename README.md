@@ -33,7 +33,7 @@ It can be used like this:
 It always adds **Exit item** to the end of the list. This item hasn't any implemented function, that's nullptr. The implementation is in **handle()** function(see below).
 
 **handle()**:
-This func implements printing of the just created menu and implements the exit item handling.
+This func implements printing of the just created menu and handels the items.
 
 ### DO NOT FORGET TO FREE MEMORY ALLOCATED FOR THE MENU
 
